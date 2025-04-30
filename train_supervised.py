@@ -26,7 +26,7 @@ from utils import *
 from datasets import *
 
 # path to dataset
-DATAPATH = Path(r'D:\DadaX\PhD\Research\0. SoilMoisture\data')
+DATAPATH = Path(r'root/path/to/your/data')
 
 
 def parse_args():
