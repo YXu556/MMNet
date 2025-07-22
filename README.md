@@ -71,14 +71,23 @@ python train_supervised.py
 
 See `results/` for optional post hoc interpretation.
 
-[//]: # (## Reference)
+## Reference
 
-[//]: # (In case you find MMNet or the code useful, please consider citing our paper using the following BibTex entry:)
+In case you find MMNet or the code useful, please consider citing our paper using the following BibTex entry:
 
-[//]: # (```)
-
-[//]: # ()
-[//]: # (```)
+```
+@article{Xu2025,
+  author = {Xu, Y. and Cai, S. and Huang, J. and Liu, J. and Shang, J. and Yang, Z. and Zhang, Z.},
+  title = {A Multimodal Deep Learning Approach for Soil Moisture Downscaling Using Remote Sensing and Weather Data},
+  journal = {Journal of Geophysical Research: Machine Learning and Computation},
+  year = {2025},
+  volume = {2},
+  number = {3},
+  pages = {e2025JH000639},
+  doi = {10.1029/2025JH000639},
+  url = {https://doi.org/10.1029/2025JH000639}
+}
+```
 
 ## Credits
 The in-situ data from SCAN and USCRN can be accessed from the [International Soil Moisture Network (ISMN)](https://ismn.bafg.de/en/dataviewer/). All used input datasets can be accessed through the [Google Earth Engine (GEE) platform]( https://developers.google.com/earth-engine/datasets/catalog): 
